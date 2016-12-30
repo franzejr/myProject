@@ -18,6 +18,7 @@ export default class myProject extends Component {
       <View style={styles.container}>
         <Text style={styles.welcome}>
           Welcome to React Native!
+          Changed text here!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
